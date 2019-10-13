@@ -8,7 +8,7 @@ char* generate_3_digit()
 
 dddd
 
-
+ggggg
 
 
 
